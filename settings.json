@@ -1,0 +1,23 @@
+{
+    "terminal.integrated.inheritEnv": false,
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "editor.rulers": [
+    80
+    ],
+    "files.trimTrailingWhitespace": true,
+    "telemetry.enableTelemetry": false,
+    "window.menuBarVisibility": "toggle",
+    "telemetry.enableCrashReporter": false,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/.git/objects/**": true,
+        "**/bower_components": true,
+        "**/env": true,
+        "**/venv": true
+    },
+    "editor.formatOnType": false,
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true,
+    "editor.formatOnPaste": true,
+    "workbench.activityBar.visible": false
+}
